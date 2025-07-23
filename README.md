@@ -5,8 +5,7 @@
 ## [ffmpeg](https://ffmpeg.org/download.html) Installation Guide:
 
 ## 1. Download the [ffmpeg](https://ffmpeg.org/download.html) files
-
-## 2. Extract them to where you would like(I put mine in the same folder as the YT downloader)
+2. Extract them to where you would like(I put mine in the same folder as the YT downloader)
 
 ## 3. Hit your windows key and search "environmental variables", click on the first thing that shows up. This should bring up a System Properties Advanced menu
 
