@@ -1,4 +1,4 @@
-# To use this please install [NodeJS]([Node.js — Download Node.js®](https://nodejs.org/en/download)), [Python](https://www.python.org/downloads/), and [ffmpeg](https://ffmpeg.org/download.html) if you do not already have it installed
+# To use this please install [NodeJS](https://nodejs.org/en/download), [Python](https://www.python.org/downloads/), and [ffmpeg](https://ffmpeg.org/download.html) if you do not already have it installed
 
 ---
 
