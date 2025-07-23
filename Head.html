@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>Youtube Converter</title>
+    <link rel="stylesheet" type="text/css" href="Format.CSS">
+    </head>
+    <body>
+        <div class="controls">
+            <input type="text" name="URL" id="URL" placeholder="Form URL">
+            <select id="codec">
+                <optgroup label="Video">
+                    <option value="mp4">MP4</option>
+                    <option value="avi">AVI</option>
+                    <option value="mkv">MKV</option>
+                    <option value="flv">FLV</option>
+                    <option value="webm">WEBM</option>
+                </optgroup>
+                <optgroup label="Audio">
+                    <option value="mp3">MP3</option>
+                    <option value="wav">WAV</option>
+                    <option value="aac">AAC</option>
+                    <option value="flac">FLAC</option>
+                    <option value="m4a">M4A</option>
+                    <option value="opus">OPUS</option>
+                    <option value="vorbis">VORBIS</option>
+                </optgroup>
+            </select>
+            <button onclick="sendMSG()">Send</button>
+            <button onclick="closeApp()">Close</button>
+        </div>
+        <div id="status-container">
+            <pre id="progress-output"></pre>
+        </div>
+        <script src="Frontend.js"></script>
+    </body>
+</html>
